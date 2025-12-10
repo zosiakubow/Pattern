@@ -9,5 +9,6 @@ public class Calc {
         int weight;
 
         System.out.println("age = "+ age);
+        //komentarz
     }
 }
